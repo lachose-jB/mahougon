@@ -1,0 +1,61 @@
+.sidenav, .nav-menu{
+    color:rgb(15, 98, 176) !important;
+
+}
+
+.sidenav :hover {
+    color:rgb(15, 98, 176) !important;
+}
+
+.titre1{
+    color:black !important;
+    font-weight: bold;
+}
+
+.presentation{
+    width: 90%;
+  padding-left: 2%;
+}
+
+.presentation p{
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    width: 100%;
+    height: auto;
+    color:black !important;
+}
+
+.centre-section{
+    position: relative !important;
+    padding-left: 10%;
+}
+
+.imagedefond{
+background: url("../../images/Affiche_Primaire/Affiche_prime1.png") !important ;
+background-size:cover !important;
+background-repeat: no-repeat !important;
+background-position-y: -5% !important;
+height: 60vh;
+}
+
+.nav-bar,li :hover{
+    color:rgb(15, 98, 176) !important;
+}
+
+.btn_main, .buy_bt {    
+    
+    position: relative;
+    padding:5%;
+}
+
+
+.btn_main, .buy_bt :hover {
+    color:rgb(15, 98, 176) !important;
+}
+
+.bouton1, .bouton2{
+    position:relative;
+    padding-right:100%;
+}
